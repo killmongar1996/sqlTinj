@@ -28,7 +28,7 @@
 
 <b>Example:</b></b></b></b>
 
-<b> sqlTinj -l urls.txt -z "sleep(0)#" -f "sleep(5)#" -t "sleep(10)#"  -a "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0" </b>
+<b> ./sqlTinj.sh -l urls.txt -z "sleep(0)#" -f "sleep(5)#" -t "sleep(10)#"  -a "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0" </b>
 
 ![image](https://user-images.githubusercontent.com/76627210/185210177-67001d9c-1df0-408f-a145-5b6a9af8e191.png)
 
